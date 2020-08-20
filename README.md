@@ -9,4 +9,4 @@ user can tap on the pin and then the app will navigate user to the Photo Album v
 
 once photo album opened, users can brows images associated with the latitude and longitude of the pin they tapped. by tapping on one of the images the image will be deleted. all photos that downloaded for first time will be saved on user’s device
 
-user can brows a new set of images  by tap on “New Collection”  button, that replaced all saved photo by a new one.
+user can brows a new set of images  by tap on “New Collection”  button, that replaced all saved photos by a new one.
